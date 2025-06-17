@@ -1,1 +1,0 @@
-alert('Hacked by test');
